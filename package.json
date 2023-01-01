@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/JH46666/yd_ssr#readme",
   "devDependencies": {
-    "webpack": "^4.39.3"
+    "webpack": "^5.75.0"
   }
 }
